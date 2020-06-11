@@ -1,0 +1,27 @@
+[
+  {
+    "userId": "1",
+    "entity": "settings",
+    "timeZone": "GMT-4",
+    "os": "ios",
+    "sessionType": "SHAM",
+    "id": "491e7258-9574-11ea-bb37-0242ac130002",
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001", 
+    "version": "1"
+  },
+  {
+    "userId": "1",
+    "entity": "exercise#581435ff-ff95-4983-a054-ab0f9fc1c4a2",
+    "info": "treatment#1",
+    "exerciseId": 1,
+    "stageId": 1,
+    "roundId": 1,
+    "score": 10,
+    "createdAt": "2020-05-10T01:59:56+0000",
+    "startTime": "2020-05-10T01:59:56+0000",
+    "endTime": "2020-05-10T02:59:56+0000",
+    "n": 2,
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001",
+    "version": "1"
+  }
+]

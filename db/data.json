@@ -1,0 +1,80 @@
+[
+  {
+    "userId": "1",
+    "entity": "schedule",
+    "events": [
+      {
+        "time": "2020-04-12T02:52:56+0001"
+      },
+      {
+        "time": "2020-05-02T02:52:56+0001"
+      }
+    ],
+    "id": "491e7258-9574-11ea-bb37-0242ac130002",
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001",
+    "version": "1"
+  },
+  {
+    "userId": "1",
+    "entity": "settings",
+    "timeZone": "GMT-4",
+    "os": "ios",
+    "sessionType": "SHAM",
+    "id": "491e7258-9574-11ea-bb37-0242ac130002",
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001", 
+    "version": "1"
+  },
+  {
+    "userId": "1",
+    "entity": "exercise#581435ff-ff95-4983-a054-ab0f9fc1c4a2",
+    "info": "treatment#1",
+    "exerciseId": 1,
+    "stageId": 1,
+    "roundId": 1,
+    "score": 10,
+    "createdAt": "2020-05-10T01:59:56+0000",
+    "startTime": "2020-05-10T01:59:56+0000",
+    "endTime": "2020-05-10T02:59:56+0000",
+    "n": 2,
+    "id": "491e7258-9574-11ea-bb37-0242ac130002",
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001",
+    "version": "1"
+  },
+  {
+    "userId": "1",
+    "entity": "exercise#b3193a7d-63e3-41a9-81f4-355c2f725c1d",
+    "info": "treatment#1",
+    "exerciseId": 1,
+    "stageId": 1,
+    "roundId": 1,
+    "score": 10,
+    "createdAt": "2020-05-10T01:59:56+0000",
+    "startTime": "2020-05-10T01:59:56+0000",
+    "endTime": "2020-05-10T02:59:56+0000",
+    "n": 2,
+    "id": "491e7258-9574-11ea-bb37-0242ac130002",
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001",
+    "version": "1"
+  },
+  {
+    "userId": "1",
+    "entity": "lesson#88f3b2bc-9574-11ea-bb37-0242ac130002",
+    "info": "treatment#1",
+    "lessonId": 1,
+    "startTime": "2020-05-10T02:10:56+0000",
+    "endTime": "2020-05-10T02:42:56+0000",
+    "choices": [
+      {
+        "categoryIdx": 0,
+        "optionIdx": 1
+      },
+      {
+        "categoryIdx": 1,
+        "optionIdx": 2
+      }
+    ],
+    "id": "88f3b2bc-9574-11ea-bb37-0242ac130002",
+    "lastUpdatedAt": "2020-05-02T02:52:56+0001",
+    "version": "1"
+  }
+]
